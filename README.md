@@ -1,7 +1,7 @@
 Creative Developer Portfolio
 A modern, high-performance portfolio website built with Next.js 15, TypeScript, and Tailwind CSS. This project showcases professional web development skills through a sleek dark-themed interface, smooth animations, and a dynamic blog powered by a headless CMS.
 
-[View Live Demo](https://your-portfolio-url.com) 
+[View Live Demo](https://v0-new-portfolio-lilac.vercel.app/)
 
 About The Project
 This portfolio was built to demonstrate expertise in modern web development by creating a fully functional, production-ready application. It features a comprehensive showcase of projects, technical skills, and dynamically managed blog posts, all while maintaining a strong focus on user experience, performance, and SEO optimization.
